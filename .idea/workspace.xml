@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55533311-fe89-44cf-94aa-8682ccb2b53e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/code/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/array/newCoder/PrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/stack/newCoder/IsPopOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/tree/newCoder/HasSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/LinkedList/Node/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/LinkedList/newCoder/RandomListNodeClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/dp/newCoder/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/dp/newCoder/MaxLengthSumOfSubArrayZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/tree/newCoder/FindPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/tree/newCoder/VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZTE/GetMaxEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ZTE/SortByFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/code/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,12 +50,12 @@
         <entry file="file://$PROJECT_DIR$/src/code/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Program Files/Java/java-1.8.0-openjdk/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-426">
@@ -59,41 +65,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/graph/BFSLinkTable.java">
+        <entry file="file://$PROJECT_DIR$/src/code/LinkedList/newCoder/RandomListNodeClone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/graph/DFSLinkTable.java">
+        <entry file="file://$PROJECT_DIR$/src/code/dp/newCoder/FindGreatestSumOfSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="247">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/array/SingleNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/code/dp/newCoder/MaxLengthSumOfSubArrayZero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/array/newCoder/PrintMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/test/ZTE/SortByFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="501">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/ZTE/GetMaxEnergy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -130,7 +144,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sort</find>
       <find>null</find>
       <find>put'</find>
       <find>TreeNode</find>
@@ -160,6 +173,7 @@
       <find>indexFor</find>
       <find>run</find>
       <find>start</find>
+      <find>start0</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,15 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/code/LinkedList/Node/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/sortedListToBST.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/sortList.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/reverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/test.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/reverseBetween.java" />
-        <option value="$PROJECT_DIR$/src/code/LinkedList/rotateRight.java" />
-        <option value="$PROJECT_DIR$/src/code/stack/MinStack.java" />
-        <option value="$PROJECT_DIR$/src/code/deque/MyCircularDequeII.java" />
         <option value="$PROJECT_DIR$/src/code/deque/MyCircularDequeI.java" />
         <option value="$PROJECT_DIR$/src/code/stack/nextGreaterElements.java" />
         <option value="$PROJECT_DIR$/src/code/deque/MyCircularQueue.java" />
@@ -219,6 +224,15 @@
         <option value="$PROJECT_DIR$/src/code/stack/newCoder/IsPopOrder.java" />
         <option value="$PROJECT_DIR$/src/code/HashTest.java" />
         <option value="$PROJECT_DIR$/src/code/Test.java" />
+        <option value="$PROJECT_DIR$/src/code/tree/newCoder/VerifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/code/tree/newCoder/FindPath.java" />
+        <option value="$PROJECT_DIR$/src/code/LinkedList/Node/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/code/LinkedList/newCoder/RandomListNodeClone.java" />
+        <option value="$PROJECT_DIR$/src/code/dp/newCoder/FindGreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/src/code/dp/newCoder/MaxLengthSumOfSubArrayZero.java" />
+        <option value="$PROJECT_DIR$/src/test/ZTE/SortByFrequency.java" />
+        <option value="$PROJECT_DIR$/src/test/ZTE/getMaxEnergy.java" />
+        <option value="$PROJECT_DIR$/src/test/ZTE/GetMaxEnergy.java" />
       </list>
     </option>
   </component>
@@ -251,7 +265,14 @@
               <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ZTE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,13 +327,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BinarySearchI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.search.BinarySearchI" />
+  <component name="RunManager" selected="Application.GetMaxEnergy">
+    <configuration name="FindGreatestSumOfSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.dp.newCoder.FindGreatestSumOfSubArray" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.search.*" />
+          <option name="PATTERN" value="code.dp.newCoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMaxEnergy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ZTE.GetMaxEnergy" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ZTE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.Question2" />
+    <configuration name="MaxLengthSumOfSubArrayZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.dp.newCoder.MaxLengthSumOfSubArrayZero" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.*" />
+          <option name="PATTERN" value="code.dp.newCoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,25 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.Question3" />
+    <configuration name="SortByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ZTE.SortByFrequency" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.sort.basic.QuickSort" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="code.sort.basic.*" />
+          <option name="PATTERN" value="test.ZTE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,11 +408,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetMaxEnergy" />
+        <item itemvalue="Application.SortByFrequency" />
+        <item itemvalue="Application.MaxLengthSumOfSubArrayZero" />
+        <item itemvalue="Application.FindGreatestSumOfSubArray" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HashTest" />
-        <item itemvalue="Application.BinarySearchI" />
-        <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.Question3" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +500,7 @@
       <workItem from="1563501301279" duration="783000" />
       <workItem from="1563889937888" duration="15709000" />
       <workItem from="1564361066426" duration="8631000" />
-      <workItem from="1564463373559" duration="2370000" />
+      <workItem from="1564463373559" duration="26117000" />
     </task>
     <servers />
   </component>
@@ -516,7 +537,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="577775000" />
+    <option name="totallyTimeSpent" value="601522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,7 +568,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.09652928" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.318872" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021299" side_tool="true" weight="0.32815966" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49893504" weight="0.3264642" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -625,6 +646,12 @@
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code/dp/newCoder/MaxLengthSumOfSubArrayZero.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/code/search/BinarySearchII.java</url>
           <line>9</line>
@@ -642,96 +669,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/code/sort/SortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/code/tree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="95" column="33" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/java-1.8.0-openjdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="994" column="21" lean-forward="true" selection-start-line="994" selection-start-column="21" selection-end-line="994" selection-end-column="21" />
-          <folding>
-            <element signature="e#56797#56798#0" expanded="true" />
-            <element signature="e#56841#56842#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/java-1.8.0-openjdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1432">
-          <caret line="99" column="30" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/code/dp/dfs/ShoppingOffers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.ConcurrentHashMap">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.ConcurrentHashMap</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.AbstractMap</node>
-            <node x="" y="">java.util.Map</node>
-            <node x="" y="">java.util.concurrent.ConcurrentHashMap</node>
-            <node x="" y="">java.io.Serializable</node>
-            <node x="" y="">java.util.concurrent.ConcurrentMap</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="251.0" y="94.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Collection">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Collection</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.lang.Iterable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="68.0" y="54.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/code/LinkedList/GetIntersectionNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/code/dp/dfs/DivisorGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -900,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/java-1.8.0-openjdk/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="474" column="7" lean-forward="true" selection-start-line="466" selection-start-column="4" selection-end-line="474" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/code/sort/basic/mergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
@@ -1040,7 +970,35 @@
     <entry file="file://$PROJECT_DIR$/src/code/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/tree/newCoder/FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="25" column="72" lean-forward="true" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/tree/newCoder/VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/LinkedList/Node/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1048,6 +1006,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-426">
           <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/LinkedList/newCoder/RandomListNodeClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/dp/newCoder/FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/dp/newCoder/MaxLengthSumOfSubArrayZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/java-1.8.0-openjdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="656" column="18" selection-start-line="656" selection-start-column="18" selection-end-line="656" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZTE/SortByFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ZTE/GetMaxEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
