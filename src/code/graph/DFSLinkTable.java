@@ -2,7 +2,7 @@ package code.graph;
 
 import java.util.LinkedList;
 
-import static jdk.nashorn.internal.objects.Global.print;
+//import static jdk.nashorn.internal.objects.Global.print;
 
 public class DFSLinkTable {
 
@@ -33,7 +33,7 @@ public class DFSLinkTable {
             prev[i] = -1;
         }
         recurDfs(s, t, visited, prev);
-        print(prev, s, t);
+//        print(prev, s, t);
     }
 
     private void recurDfs(int w, int t, boolean[] visited, int[] prev) {
