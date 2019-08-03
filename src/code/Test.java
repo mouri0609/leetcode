@@ -6,17 +6,30 @@ package code;
  */
 public class Test {
     public static void main(String[] args) {
-        Integer a1 = new Integer(123);
-        Integer b1 = new Integer(123);
-
-        Integer a2 = Integer.valueOf(123);
-        Integer b2 = Integer.valueOf(123);
-
-        System.out.println(a1==b1);
-        System.out.println(a1.equals(b1));
-        System.out.println(a2==b2);
-        Thread thread = new Thread();
-        thread.start();
+       Alpa a= new Beta();
+       a.f();
+       System.out.println(a.getClass().getName());
+       try {
+            Beta b = (Beta) a;
+            b.g();
+        }catch (Exception e){
+            System.out.println("Error");
+        }
 
     }
+
+}
+
+class Beta implements Alpa{
+    public void f(){
+        System.out.println("Beta.f()");
+    }
+
+    public void g(){
+        System.out.println("Beta.g()");
+    }
+}
+
+interface  Alpa{
+    void f();
 }
