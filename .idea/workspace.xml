@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55533311-fe89-44cf-94aa-8682ccb2b53e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/code/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/graph/DFSLinkTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/graph/DFSLinkTable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +192,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workspace/IntelliJ Java/leetCode/src/code/heap/midnum.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564822787451" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564829048031" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -410,7 +405,7 @@
       <workItem from="1564361066426" duration="8631000" />
       <workItem from="1564463373559" duration="2370000" />
       <workItem from="1564492036455" duration="43000" />
-      <workItem from="1564570285106" duration="8775000" />
+      <workItem from="1564570285106" duration="9698000" />
     </task>
     <servers />
   </component>
@@ -447,7 +442,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586593000" />
+    <option name="totallyTimeSpent" value="587516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,7 +456,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,14 +465,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" visible="true" weight="0.25809935" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" weight="0.25809935" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.33909288" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.09652928" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39848813" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021299" side_tool="true" weight="0.32815966" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49893504" weight="0.3261339" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
