@@ -1,6 +1,10 @@
 package code;
 
+import code.LinkedList.Node.TreeNode;
+
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 /**
@@ -8,37 +12,32 @@ import java.util.Scanner;
  * @Date: 2019/7/30
  */
 public class Test {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-        int[] scores = new int[n];
-        for (int i=0;i<n;i++){
-            scores[i] = scan.nextInt();
-        }
+    public int TreeDepth(TreeNode root) {
 
-        int times = scan.nextInt();
-        int[] nums = new int[times];
-        for (int i=0;i<times;i++){
-            nums[i] = scan.nextInt();
+        if (root==null){
+            return 0;
         }
-        rank(n,scores,nums);
-
-    }
-    private static void rank(int n,int[] score,int[] nums){
-        double p;
-        for (int i=0;i<nums.length;i++){
-            p=(double)(realRank(score[nums[i]-1],score)-1)/n;
-            System.out.printf("%.6f\n",p*100);
-        }
-    }
-    private static int realRank(int curScore, int[] score){
-        int cnt = 0;
-        for (int i=0;i<score.length;i++){
-            if (score[i]<=curScore){
-                cnt++;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        int count =0;
+        int size = 1;
+        int depth = 0;
+        while (!queue.isEmpty()){
+            TreeNode node = queue.poll();
+            count++;
+            if (node.left!=null){
+                queue.offer(node.left);
+            }
+            if (node.right!=null){
+                queue.offer(node.right);
+            }
+            if (count==size){
+                depth++;
+                count = 0;
+                size = queue.size();
             }
         }
-        return cnt;
+        return depth;
     }
 }
 
