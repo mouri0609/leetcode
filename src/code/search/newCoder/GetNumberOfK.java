@@ -8,6 +8,9 @@ public class GetNumberOfK {
     public int GetNumberOfK(int [] array , int k) {
 
        int start = getFirst(array,k);
+        if (start==-1){
+            return 0;
+        }
         int n = 1;
         while (start!=array.length-1&&array[start]==array[start+1]){
             start++;
@@ -37,8 +40,8 @@ public class GetNumberOfK {
     }
 
     public static void main(String[] args) {
-        int[] a = {1,2,3,4,5,5,5,5,5,5,6,7,8};
+        int[] a = {1,3,3,3,3,4,5};
         GetNumberOfK test = new GetNumberOfK();
-        System.out.println(test.GetNumberOfK(a,8));
+        System.out.println(test.GetNumberOfK(a,2));
     }
 }
