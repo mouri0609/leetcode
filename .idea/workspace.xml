@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="545bdf7f-3ef3-4ac9-b792-c06ac82bafc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/code/Lock/Producer_Consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/Lock/Producer_Consumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/Lock/Producer_Consumer/ProducerConsumerPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/graph/leetcode/FindJudge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/graph/leetcode/StudentCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/test/QuShi/BigSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/QuShi/BigSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/QuShi/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/QuShi/exchangeMoney.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/code/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Question3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Question3$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Question3$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Question3$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/Question3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/test25$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/test25$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/test25$C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/test25$D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/test25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/code/test25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/code/tree/newCoder/KthNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/code/tree/newCoder/KthNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/exam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/exam/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Lock/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,16 +81,37 @@
         <entry file="file://$PROJECT_DIR$/src/code/graph/leetcode/FindJudge.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/graph/leetcode/StudentCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/QuShi/exchangeMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/code/graph/leetcode/StudentCourse.java">
+        <entry file="file://$PROJECT_DIR$/src/test/QuShi/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+            <state relative-caret-position="473">
+              <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,31 +125,6 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
                 <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/Lock/Producer_Consumer/ProducerConsumerPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/Lock/Producer_Consumer/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/code/Example.java" />
         <option value="$PROJECT_DIR$/src/code/graph/leetcode/FindJudge.java" />
         <option value="$PROJECT_DIR$/src/code/graph/leetcode/StudentCourse.java" />
+        <option value="$PROJECT_DIR$/src/test/QuShi/Test.java" />
       </list>
     </option>
   </component>
@@ -226,19 +206,13 @@
             <path>
               <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="inspectionProfiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindJudge">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="FindJudge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.graph.leetcode.FindJudge" />
       <module name="leetCode" />
@@ -277,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.array.leetcode.MaxArea" />
+    <configuration name="ProducerConsumerPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.Lock.Producer_Consumer.ProducerConsumerPattern" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.array.leetcode.*" />
+          <option name="PATTERN" value="code.Lock.Producer_Consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumerPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.Lock.Producer_Consumer.ProducerConsumerPattern" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.QuShi.Test" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.Lock.Producer_Consumer.*" />
+          <option name="PATTERN" value="test.QuShi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindJudge" />
         <item itemvalue="Application.ProducerConsumerPattern" />
         <item itemvalue="Application.test25" />
         <item itemvalue="Application.maxInWindows" />
-        <item itemvalue="Application.MaxArea" />
       </list>
     </recent_temporary>
   </component>
@@ -346,27 +320,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64833000" />
+    <option name="totallyTimeSpent" value="66377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -748,14 +723,36 @@
     <entry file="file://$PROJECT_DIR$/src/code/graph/leetcode/FindJudge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6099" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code/graph/leetcode/StudentCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+        <state relative-caret-position="1292">
+          <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/QuShi/exchangeMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/QuShi/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
