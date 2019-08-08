@@ -1,4 +1,4 @@
-package code;
+package code.Lock;
 
 import java.util.Scanner;
 import java.util.concurrent.locks.Condition;

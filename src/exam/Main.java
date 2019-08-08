@@ -1,5 +1,6 @@
 package exam;
 
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
@@ -23,5 +24,6 @@ public class Main {
            }
         }
         System.out.println(dp[m][1]);
+
     }
 }
