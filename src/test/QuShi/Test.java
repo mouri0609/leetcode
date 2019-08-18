@@ -47,9 +47,11 @@ public class Test {
         Set<Integer> set = new HashSet<>();
         System.out.println(coins.size());
         for(int i=pos;i<coins.size();i++) {
-            //
-            if(set.contains(coins.get(i)))
+            if(set.contains(coins.get(i))){
+                System.out.println(set);
                 continue;
+            }
+
             set.add(coins.get(i));
             path.add(coins.get(i));
             hepler(res, coins, target, i+1, sum+coins.get(i), path);
