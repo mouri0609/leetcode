@@ -46,6 +46,7 @@ public class Permutation {
         String s = "abc";
         Permutation test = new Permutation();
         test.Permutation(s);
+        System.out.println(test.Permutation(s));
 
     }
 }

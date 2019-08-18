@@ -45,6 +45,7 @@ public class Test {
         if(sum > target)
             return;
         Set<Integer> set = new HashSet<>();
+        System.out.println(coins.size());
         for(int i=pos;i<coins.size();i++) {
             if(set.contains(coins.get(i))){
                 System.out.println(set);

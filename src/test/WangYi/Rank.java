@@ -3,7 +3,6 @@ package test.WangYi;
 import java.util.Scanner;
 
 public class Rank {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
